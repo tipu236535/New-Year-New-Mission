@@ -181,6 +181,7 @@ background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('
     border-radius: 300px;
     background: #FFF;
     border: 10px solid #F00;
+    padding: 10px 10px 10px 10px;
 }
 
 
